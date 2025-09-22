@@ -1,0 +1,132 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Localization Table Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Localization Table
+  m_TableCollectionNameGuidString: 175759fa28a9dde4d92cd506bd6f0c35
+  m_Entries:
+  - m_Id: 159778914304
+    m_Key: GameName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 446962909184
+    m_Key: ButtonExitApp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 542555291648
+    m_Key: ScoresDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 713284435968
+    m_Key: ScoresDataDescription1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 920042651648
+    m_Key: ScoresDataDescription2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1017954484224
+    m_Key: ButtonPlay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1080130846720
+    m_Key: ButtonInfo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 127217372807168
+    m_Key: SelectDifficulity
+    m_Metadata:
+      m_Items: []
+  - m_Id: 127390303961088
+    m_Key: SelectDifficulityOr
+    m_Metadata:
+      m_Items: []
+  - m_Id: 127533338116096
+    m_Key: DifficulityPractice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128440939364352
+    m_Key: DifficulityOrdinalExamples
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128823766073344
+    m_Key: GameStatusBarDescriptionScore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129040913580032
+    m_Key: GameStatusBarDescriptionTime
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129156294688768
+    m_Key: ButtonStart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129335357915136
+    m_Key: AreYouReadyDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 131453879894016
+    m_Key: GameOverDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 131609299828736
+    m_Key: YouDidSolveDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 131867345993728
+    m_Key: FromTheAllTableDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 132018634539008
+    m_Key: ButtonGoHome
+    m_Metadata:
+      m_Items: []
+  - m_Id: 132108187123712
+    m_Key: YouWinDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 137413243486208
+    m_Key: InfoDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 137487801434112
+    m_Key: InfoText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 137661403676672
+    m_Key: ButtonBack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 215722086154240
+    m_Key: TimeStatDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 910862685618176
+    m_Key: GameMainName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1905004240748544
+    m_Key: WinDescription
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 4233465609322750
+  references:
+    version: 2
+    RefIds:
+    - rid: 4233465609322750
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1757926521032

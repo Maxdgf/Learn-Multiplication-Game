@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Localization Table_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 175759fa28a9dde4d92cd506bd6f0c35, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 159778914304
+    m_Localized: Learn Multiplication
+    m_Metadata:
+      m_Items: []
+  - m_Id: 446962909184
+    m_Localized: Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 542555291648
+    m_Localized: 'Your Scores:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 713284435968
+    m_Localized: 'By multiplication table:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 920042651648
+    m_Localized: 'Practice mode:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1017954484224
+    m_Localized: Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1080130846720
+    m_Localized: Info
+    m_Metadata:
+      m_Items: []
+  - m_Id: 127217372807168
+    m_Localized: 'Select dufficulity:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 127390303961088
+    m_Localized: or
+    m_Metadata:
+      m_Items: []
+  - m_Id: 127533338116096
+    m_Localized: Practice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128440939364352
+    m_Localized: Ordinal examples from multiplication table
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128823766073344
+    m_Localized: score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129040913580032
+    m_Localized: time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129156294688768
+    m_Localized: Start!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129335357915136
+    m_Localized: Are you ready?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 131453879894016
+    m_Localized: Game Over
+    m_Metadata:
+      m_Items: []
+  - m_Id: 131609299828736
+    m_Localized: 'You did solve:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 131867345993728
+    m_Localized: from the all table.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 132018634539008
+    m_Localized: Go home
+    m_Metadata:
+      m_Items: []
+  - m_Id: 132108187123712
+    m_Localized: You Win!!!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 137413243486208
+    m_Localized: Info
+    m_Metadata:
+      m_Items: []
+  - m_Id: 137487801434112
+    m_Localized: "\rA simple game that will help consolidate knowledge about multiplication
+      and the multiplication table!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 137661403676672
+    m_Localized: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 215722086154240
+    m_Localized: "\rYou were able to hold out:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 910862685618176
+    m_Localized: Learn Multiplication
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1905004240748544
+    m_Localized: Congratulations! You win!
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
