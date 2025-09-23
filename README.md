@@ -1,4 +1,4 @@
-# Learn Multiplication Game
+<img width="711" height="664" alt="image" src="https://github.com/user-attachments/assets/dac1a4a0-184d-4d42-b307-121bb9ce1071" /># Learn Multiplication Game
 
 A simple mobile📱**Unity** game where you need to keep a bird🐦 in the air by solving multiplication examples without letting it fall.
 
@@ -16,6 +16,13 @@ Player must press the button with the correct answer to the example to keep the 
 
 * Ordinal examples from multiplication table *(solve all examples in order from the multiplication table)*
 * Practice *(hold out 5 minutes)*
+
+## Additional
+
+### Localization
+
+->🇷🇺
+->🇬🇧
 
 ## Used assets
 
