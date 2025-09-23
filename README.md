@@ -6,4 +6,4 @@ A simple mobile📱unity game where you need to keep a bird🐦 in the air by so
 
 | Game view | Main menu | Select difficulity | Game over |
 |:----------|:----------|:-------------------|:----------|
-|  <img width="300" height="600" src=".github/demo.gif">   | <img width="300" height="600" src=".github/demo3.png">  | <img width="300" height="600" src=".github/demo2.png">   | <img width="300" height="600" src=".github/demo1.png">  |
+|  <img width="300" height="600" src=".github/demo.gif">   | <img width="300" height="600" src=".github/demo3.jpg">  | <img width="300" height="600" src=".github/demo2.jpg">   | <img width="300" height="600" src=".github/demo1.jpg">  |
