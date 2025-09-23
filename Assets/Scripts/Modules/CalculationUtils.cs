@@ -2,6 +2,7 @@ using UnityEngine;
 
 public class CalculationUtils : MonoBehaviour
 {
+    //fuction for converting float to time
     public string ConvertFloatToTime(float time)
     {
         float minutes = Mathf.FloorToInt(time / 60);
