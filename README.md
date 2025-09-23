@@ -21,8 +21,8 @@ Player must press the button with the correct answer to the example to keep the 
 
 ### Localization
 
-->🇷🇺
-->🇬🇧
+* ru
+* en
 
 ## Used assets
 
