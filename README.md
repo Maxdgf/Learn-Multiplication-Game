@@ -1,4 +1,4 @@
-<img width="711" height="664" alt="image" src="https://github.com/user-attachments/assets/dac1a4a0-184d-4d42-b307-121bb9ce1071" /># Learn Multiplication Game
+# Learn Multiplication Game
 
 A simple mobile📱**Unity** game where you need to keep a bird🐦 in the air by solving multiplication examples without letting it fall.
 
