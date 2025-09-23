@@ -1,6 +1,6 @@
 # Learn Multiplication Game
 
-A simple mobile📱unity game where you need to keep a bird🐦 in the air by solving multiplication examples without letting it fall.
+A simple mobile📱**Unity** game where you need to keep a bird🐦 in the air by solving multiplication examples without letting it fall.
 
 ## Gallery🖼️
 
@@ -16,3 +16,13 @@ Player must press the button with the correct answer to the example to keep the 
 
 * Ordinal examples from multiplication table *(solve all examples in order from the multiplication table)*
 * Practice *(hold out 5 minutes)*
+
+## Used assets
+
+### **UI** buttons(**Unity** asset store):
+
+    371 Simple Buttons Pack
+
+### Other sprites:
+
+  -> <a href="https://www.freepik.com">freepik</a>
