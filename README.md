@@ -2,6 +2,9 @@
 
 A simple mobile📱**Unity** game where you need to keep a bird🐦 in the air by solving multiplication examples without letting it fall.
 
+## Warning⚠️
+> This project is a prototype of a project that is stored in the repository -> <a href="https://github.com/Maxdgf/Birdie-s-adventure-Table-of-Multiplication">here</a>
+
 ## Gallery🖼️
 
 | Game view | Main menu | Game over | Select difficulity |
